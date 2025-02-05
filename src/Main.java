@@ -10,5 +10,5 @@ public class Main {
 
         int payment3 = service.calculate(1_000_000, 36, 9.99);
         System.out.println("Ежемесячный платеж (3 год): " + payment3 + " руб.");
-        }
     }
+}
